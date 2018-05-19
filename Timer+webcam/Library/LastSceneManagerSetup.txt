@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Lazer Misiion.unity
+  isLoaded: 1
+  isActive: 1
